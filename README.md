@@ -1,4 +1,4 @@
-# Wine_Quality_Classification
+
 
 
 # END TO END MACHINE LEARNING PIPLELINE WITH MLOPS:
@@ -128,6 +128,22 @@ python app.py
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+
+### Continuous integration (CI)
+- Taking the Ubuntu Machine - echo operation for testing 
+
+### Continuous delivery (CD)
+- Loging with AWS
+- Loging with ECR
+- Building Docker Image
+- Pushing Image to ECR
+
+### Continuous deployments
+- Configure the account
+- Pull Image from ECR
+- Run Image on EC2
+- Port Mapping 
 
 
 # RESOURCES:

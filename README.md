@@ -148,3 +148,5 @@ python app.py
 
 # RESOURCES:
 1. https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/
+2. https://www.jenkins.io/
+3. https://www.jenkins.io/doc/
